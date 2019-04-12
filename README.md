@@ -1,2 +1,2 @@
 # AdvancedJavaClass
-Source code for Advanced Java UML Class
+Rental - an example of dependancy injection
